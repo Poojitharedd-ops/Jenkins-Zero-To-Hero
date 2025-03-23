@@ -63,6 +63,7 @@ sudo apt-get install jenkins
 
 
 ### Login to Jenkins using the below URL:
+http://13.61.33.244:8080/login?from=%2F
 
 http://<ec2-instance-public-ip-address>:8080    [You can get the ec2-instance-public-ip-address from your AWS EC2 console page]
 
